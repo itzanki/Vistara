@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vistara</string>
+    <string name="hetromyopia">Hetromyopia</string>
+    <string name="myopia">myopia</string>
+    <string name="colourbindness">ColourBindness</string>
+    <string name="colorrecognization">colorrecognization</string>
+    <string name="feedback">FeedBack</string>
+    <string name="read_this_text"> A B C D E F </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="next">Next</string>
+</resources>
